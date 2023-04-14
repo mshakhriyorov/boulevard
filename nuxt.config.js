@@ -21,7 +21,7 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: ["tachyons/css/tachyons.css", "bulma", "~/assets/styles/main"],
+  css: ["tachyons/css/tachyons.css", "~/assets/styles/main"],
 
   loading: {
     color: "blue",
